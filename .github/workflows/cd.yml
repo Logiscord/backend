@@ -1,4 +1,4 @@
-name: Deploy NestJS App to Docker
+name: Logiscord API CD
 
 on:
     push:
